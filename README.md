@@ -149,6 +149,12 @@ See the [examples/scratch](https://github.com/cupcakearmy/cryptgeon/tree/main/ex
 
 There is a [guide](https://mariushosting.com/how-to-install-cryptgeon-on-your-synology-nas/) you can follow.
 
+### One-Click Deploy
+
+- [RepoCloud](https://repocloud.io/details/Cryptgeon/)
+- [Railway](https://railway.com/deploy/cryptgeon)
+- [Elestio](https://elest.io/open-source/cryptgeon)
+
 ### YouTube Guides
 
 - English by [Webnestify](https://www.youtube.com/watch?v=XAyD42I7wyI)
